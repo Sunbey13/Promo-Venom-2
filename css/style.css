@@ -112,6 +112,7 @@ img{
 
 .content{
     display: flex;
+    padding-bottom: 5%;
 }
 
 .col{
@@ -222,7 +223,6 @@ img{
     .content{
         display: flex;
         flex-direction: column;
-        padding-bottom: 5%;
     }
 
     .col{
